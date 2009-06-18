@@ -1,0 +1,6 @@
+#summary Multi Unpacker Changelog
+#labels Phase-Support
+
+= Multi Unpacker 1.0 =
+
+  * Initial release
